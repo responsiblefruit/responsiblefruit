@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🎓: BSc Softwareengineering @TU Graz
+👨‍💻: Trainer for Java Basics and Applied Mathematics @BBRZ Reha GmbH
+🔭: I'm currently working on a testing system for my students using
+    GitHub Classroom and GitHub Actions, to provide fair feedback and automated
+    reports on their progress and mistakes.
+📫: moritz_wenger@student.tugraz.at
+
 <!--
 **responsiblefruit/responsiblefruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
