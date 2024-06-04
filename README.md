@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 🎓: BSc Softwareengineering @TU Graz<br>
+-
 👨‍💻: Trainer for Java Basics and Applied Mathematics @BBRZ Reha GmbH<br>
+-
 🔭: I'm currently working on a testing system for my students using<br>
     GitHub Classroom and GitHub Actions, to provide fair feedback and automated<br>
     reports on their progress and mistakes.<br>
+-
 📫: moritz_wenger@student.tugraz.at
 
 <!--
